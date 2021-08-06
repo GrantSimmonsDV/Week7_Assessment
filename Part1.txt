@@ -1,0 +1,35 @@
+CI Tool (Travis CI)
+    
+    Notable Features
+        - Getting set up with the tool is quick and simple
+        - The tool has live build views to see it in action
+        - It supports many databases and services that are pre-installed so it can work right away for your build configuration
+        - Simple intergration with deployment services like Heroku
+        - Connects with GitHub and other code repository sites 
+        - Supports a variety of languages
+    All in all, Travis CI brings much ease to continueous intergration with it's connection to an abundant amount of services and ability to support so many environments
+
+
+    Their Getting Start documentation is descriptive and well layed out. Reading through their instructions was easy to follow and it seems they put some energy into documenting what to do to easily start using their services. The steps have hyperlinks in them for further clarification if needed which was thoughtful.
+
+    Basically you go to their site and signup with GitHub creating the connection of your repository to their service. You select the repos you want to use, add a .travis.yml file to the repo, commit and push that to GitHub, then go back to your build status page at their site and you can see if the your build passes or fails. 
+
+    Travis CI has been around for a decade having started in 2011. They are trusted by great companies like zendesk, Heroku, BitTorrent, Engine Yard, etc. There are 11k results when searching Travis CI on GitHub. One public repo had its intial commit 7yrs ago and a recent one 24 days ago. From what I can tell it seems to be a reliable service for continuous integration. 
+
+
+Monitoring Tool (Sentry)
+
+    Notable Features
+        - It provides easy intuitive visuals of your code of any errors and performance issues
+        - It helps identify issues on the back-end caused on the front-end
+        - Releases provide visibilty to which errors have been taken care of and what issues have come up for the first time. 
+        - Provides breadcrumbs making it easier by showing the trails of events that lead to the errors.
+    In a nutshell this service seems to be a well rounded and robust option for monitoring your applications and being able to fix issues efficently. 
+
+    Thier docs are well made, spelling out each and every step to easily get set up and start using thier service right away. Screen shots, code, hyperlinks are all throughout thier docs to help easily understand what to do. 
+
+    Getting started is just a matter of selecting a SDK, configuring, and installing the service, making connections with your code. 
+
+    Sentry has almost hit a decade and began in 2012. They are worldwide and are used by well known companies and coorperations. Some of them being GitHub, Disney, Peleton, DoorDash, Sonos, WMware. After reading through their site, googling them and getting feel for thier company and service they seem to be a great option when looking for a provider to help with application monitoring.
+
+ 
